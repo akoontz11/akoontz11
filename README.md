@@ -1,5 +1,5 @@
 My name is Austin Koontz, and I'm a Research Assistant in the [Hoban Conservation Lab](https://www.hobanlab.com/) at the [Morton Arboretum](https://mortonarb.org/).
-Our lab's research ranges from conservation genomics to *ex situ* representation and informing conservation policy.
+Our lab's research ranges from conservation genomics to *ex situ* representation and informing conservation policy, and some the lab's work can be seen on the [Hoban Lab GitHub page](https://github.com/HobanLab).
 
 I'm interested in everything bioinformatics and conservation, and my research background centers on using RADseq analyses to inform species delimitation in plants.
 I received my Master's in Biology and Ecology at Utah State University, under the instruction of [Dr. Will Pearse](https://github.com/willpearse) and [Dr. Paul Wolf](https://paulwolflab.com/).
