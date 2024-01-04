@@ -21,8 +21,14 @@ To contact me or for more information, follow the links on my [personal website]
 <h3 align="left">
   <b>Communities</b>
 </h3>
-<a href="https://github.com/orgs/R-Ladies-Morelia/repositories" target="blank">
-  <img src="https://raw.githubusercontent.com/sofiazorrilla/sofiazorrilla/main/icons/rladies_morelia.png" alt="mariadb"
+<a href="https://github.com/HobanLab" target="blank">
+  <img src="https://github.com/akoontz11/akoontz11/blob/main/icons/hoban.jpg" 
+      width="70" height="70" /> </a>
+<a href="https://github.com/ropensci" target="blank">
+  <img src="https://github.com/akoontz11/akoontz11/blob/main/icons/rOpenSci.png" 
+      width="70" height="70" /> </a>
+<a href="https://github.com/pearselab" target="blank">
+  <img src="https://github.com/akoontz11/akoontz11/blob/main/icons/pearse.jpg" 
       width="70" height="70" /> </a>
 
 <h3 align="left">Languages and Tools:</h3>
