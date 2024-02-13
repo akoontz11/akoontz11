@@ -14,9 +14,10 @@ To contact me or for more information, follow the links on my [personal website]
 </h3>
 
 - _2023 - Present_: Research Consultant 
-  - I conduct multiple research projects centered around conservation genomics, and collaborate with individuals at the Morton Arboretum and different botanic gardens around the United States. I'm also the System Administrator for the Hoban Lab Linux server.
+  - I conduct multiple research projects centered around conservation genomics, and collaborate with individuals at the Morton Arboretum and different botanic gardens around the United States. I'm also the system administrator for the Hoban Lab Linux server.
 - _2021 - 2023_: Research Assistant, Morton Arboretum
 - _2018 - 2020_: Master's of Science, Biology (Ecology), [Utah State University](https://www.usu.edu/biology/)
+- _2015 - 2018_: Applications Specialist, [Hamilton Robotics](https://www.hamiltoncompany.com/automation/applications)
   
 <h3 align="left">
   <b>Communities</b>
