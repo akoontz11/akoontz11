@@ -41,7 +41,9 @@ To contact me or for more information, follow the links on my [personal website]
      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="bash"
       width="40" height="40" /> 
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" alt="git"
-      width="50" height="40" /> 
+      width="50" height="40" />
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/julia/julia-original.svg" alt="julia"
+      width="50" height="40" />
   
    </p>
 
